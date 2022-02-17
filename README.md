@@ -1,6 +1,6 @@
 # 👋 Hello , I am Gripz
 I am a developer of discord bots I know javascript and html and python . <br >
-# My Discord Current stats<br><br>
+# My Discord Current stats<br>
 ![Discord](https://discord.c99.nl/widget/theme-2/844863061907210251.png)
 # Github Stats <br >
 ![Gripz Github](https://github-readme-stats.vercel.app/api?username=GripZViSx)
