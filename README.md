@@ -1,5 +1,6 @@
 # 👋 Hello , I am Gripz
 I am a developer of discord bots I know javascript and html and python . <br >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=magmawave&color=00FFD8&lines=Graphic+Designing+Available+On+My+Development+Server)](https://git.io/typing-svg)
 # My Discord Current stats<br>
 ![Discord](https://discord.c99.nl/widget/theme-2/844863061907210251.png)
 # Github Stats <br >
