@@ -9,7 +9,7 @@ I am a developer of discord bots I know python and html and js. <br ><p align="c
 
 <p align="center"> 
  <a href="https://instagram.com/kulin_editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ks" height="30" width="40" /></a> 
- <a href="https://github.com/GripZViSx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="GripZViSx" height="30" width="40" /></a> </p>
+</p>
 
   <h3 align="center">Languages & Tools Used By Me</h3>
   <p align="center">
