@@ -1,10 +1,9 @@
 
 <br ><p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=19&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+There;I+am+Gripz+a.k.a.+Kulin;I+am+an+intermediate+programmer.;Nice+to+meet+you.)](https://github.com/GripZViSx)</p><br>
+ <h1 align="center">Discord Live Status</h1>
 <p align="center">
- <h1>Discord Live Status</h1>
- 
-![Discord](https://discord.c99.nl/widget/theme-2/844863061907210251.png)</p>
+<a href"" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-2/844863061907210251.png" alt="ks"/></a></p>
 
 <h3 align="center">Connect With Me</h3> 
 
