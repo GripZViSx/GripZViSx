@@ -4,9 +4,6 @@
  <h1 align="center">Discord Live Status</h1>
 <p align="center">
 <a href"" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-2/844863061907210251.png" alt="ks"/>
-
-![Discord](https://discord.c99.nl/widget/theme-2/844863061907210251.png)
-
 </a>
 </p>
 
