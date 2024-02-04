@@ -11,6 +11,7 @@
 
 <p align="center">
  <a href="https://instagram.com/kulin_editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ks" height="30" width="40" />Instagram</a>
+ <br/>
  <a href="https://discord.com/users/844863061907210251" target="blank"><img align="center" src="https://media.discordapp.net/attachments/928260959678660618/1150029976985411785/discord.png" alt="ks" height="30" width="30" />Discord</a>
  
 </p>
