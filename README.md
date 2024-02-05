@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=19&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+There;I+am+Gripz+a.k.a.+Kulin;I+am+an+intermediate+programmer.;Nice+to+meet+you.)](https://github.com/GripZViSx)</p><br>
  <h2 align="center">Discord Live Status</h2>
 <p align="center">
-<a href"" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-2/844863061907210251.png" alt="ks"/>
+<a href"" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-2/844863061907210251.png" alt="Discord Status"/>
 </a>
 </p>
 
@@ -22,8 +22,8 @@
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" align="center"/></a>
    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://media.discordapp.net/attachments/928260959678660618/1150033352750014505/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="sqlalchemy" width="56.5" height="11.875" align="center"/></a>
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" align="center"/></a>
-   <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40" align="center"/></a>
-   <a href="https://vitejs.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="40.16" height="40" align="center"/></a>
+   <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="35" height="35" align="center"/></a>
+   <a href="https://vitejs.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="30" height="30" align="center"/></a>
    <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" fill="white" alt="expressjs" width="40" height="40" align="center"/></a>
    <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" align="center"/></a>
    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" align="center"/></a>
