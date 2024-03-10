@@ -11,7 +11,7 @@
 
 <p align="center">
  <a href="https://instagram.com/kulin_editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ks" height="30" width="40"/></a>
- <a href="https://discord.com/users/844863061907210251" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="ks" height="30" width="30" /></a>
+ <a href="https://discord.com/users/844863061907210251" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="ks" height="50" width="50" /></a>
  
 </p>
 
